@@ -13,7 +13,7 @@ This portfolio features:
 
 ## 🎨 Live Demo
 
-View the live portfolio at: [Add your GitHub Pages URL here]
+View the live portfolio at: [https://urvishah231998.github.io/Urvi-Shah-Portfolio/]
 
 ## 🚀 Features
 
