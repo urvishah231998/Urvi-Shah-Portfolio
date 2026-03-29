@@ -127,7 +127,7 @@ Urvi-Shah-Portfolio/
 
 - **Behance**: https://www.behance.net/urvishah2
 - **Email**: urvishah231998@gmail.com
-- **LinkedIn**: https://linkedin.com/in/urvishah](https://www.linkedin.com/in/urvi-shah-390632186/
+- **LinkedIn**: https://www.linkedin.com/in/urvi-shah-390632186/
 
 ## 📄 License
 
